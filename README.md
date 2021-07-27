@@ -4,6 +4,8 @@
 
 Суть игры: рисование кривой, по которой будут выстраиваться юниты.
 
+Скрипты находятся в папке Scripts в корне репозитория.
+
 ## Download link
 https://drive.google.com/file/d/1n-quruZV2tuC-du_LmIP8uime8Q0GNlY/view?usp=sharing
 
